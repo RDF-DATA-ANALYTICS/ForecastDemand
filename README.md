@@ -2,6 +2,10 @@
 
 This repository is set up for demand forecasting project using the M5 Forecasting dataset.
 
+## Setup GitHub SSH
+
+Refer to https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
 ## Set up venv (Linux)
 
 From the project root:
