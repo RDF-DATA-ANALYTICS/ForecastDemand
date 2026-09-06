@@ -1,0 +1,83 @@
+# Common data-science dependencies (install with `pip install -r requirements.txt`)
+# Optional: pin versions for reproducibility (e.g., numpy==1.26.2)
+
+# Core
+numpy
+pandas
+scipy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Interactive / notebooks
+jupyterlab
+notebook
+ipykernel
+ipywidgets
+
+# Images / computer vision
+# opencv-python
+# scikit-image
+# pillow
+
+# Utilities
+tqdm
+python-dotenv
+requests
+httpx
+
+# Big data / parallel processing
+dask[complete]
+
+# Gradient-boosted trees
+# xgboost
+# lightgbm
+# catboost
+
+# Deep learning
+# tensorflow
+torch
+# torchvision
+# torchaudio
+
+# Hugging Face / LLM tooling
+# transformers
+# datasets
+# accelerate
+# sentencepiece
+# tokenizers
+# huggingface_hub
+# evaluate
+# peft
+# diffusers
+# safetensors
+# bitsandbytes
+
+# Cloud / API SDKs
+# openai
+# anthropic
+
+# NVIDIA tooling (optional / for GPU management)
+# nvidia-ml-py3
+# nvidia-pyindex
+
+# Experiment tracking & hyperparameter tuning
+mlflow
+# optuna
+
+# Profiling
+# ydata-profiling
+
+# sql
+postgres
+psycopg2-binary
+
+# Validation
+pydantic
+pandera
+
+# Dataset
+kagglehub
